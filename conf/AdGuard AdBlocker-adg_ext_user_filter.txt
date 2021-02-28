@@ -1,0 +1,31 @@
+blog.csdn.net###csdn-toolbar > div.toolbar-inside > div.toolbar-container
+blog.csdn.net###asideProfile > div.profile-intro.d-flex:first-child
+blog.csdn.net###asideProfile > div.data-info.d-flex.item-tiling:nth-child(2)
+blog.csdn.net###asideProfile > div.data-info.d-flex.item-tiling:nth-child(4)
+blog.csdn.net###asideProfile > div.aside-box-footer:nth-child(5)
+blog.csdn.net###asideProfile > div.profile-intro-name-boxOpration:last-child
+blog.csdn.net###toolBarBox > div.left-toolbox:last-child > ul.toolbox-list:first-child
+blog.csdn.net###mainBox > aside.blog_container_aside:nth-child(2)
+blog.csdn.net###mainBox > main:first-child > div.first-recommend-box.recommend-box:nth-child(8)
+blog.csdn.net###mainBox > main:first-child > div.second-recommend-box.recommend-box:nth-child(9)
+blog.csdn.net###mainBox > main:first-child > div.comment-box:nth-child(11)
+blog.csdn.net###mainBox > main:first-child > div.recommend-box.insert-baidu-box:nth-child(12)
+blog.csdn.net###mainBox > main:first-child > div.template-box:nth-child(13)
+blog.csdn.net###copyright-box
+cnblogs.com###header
+cnblogs.com###nav_main
+cnblogs.com###nav_main
+cnblogs.com###sideBarMain
+cnblogs.com###blog_post_info_block
+cnblogs.com###comment_form
+cnblogs.com###footer
+blog.csdn.net##div:nth-child(37) > div.csdn-side-toolbar
+cnblogs.com###MySignature > img:nth-child(4)
+cnblogs.com###MySignature
+blog.csdn.net##div:nth-child(42) > div.csdn-side-toolbar
+baidu.com###content_right
+newtab.firefoxchina.cn###root > div > div.outer-wrapper > main:first-child > div.body-wrapper.on:last-child
+octgoodvps.com###secondary
+octgoodvps.com###post-506 > header.entry-header:first-child > div.entry-thumbnail:first-child
+octgoodvps.com###masthead
+octgoodvps.com###colophon
